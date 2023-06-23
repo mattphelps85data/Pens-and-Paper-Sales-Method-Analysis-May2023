@@ -1,8 +1,5 @@
 
-# DataCamp Product Sales report
-
-DataCamp's practical exam project for the Professional Data Analyst Certificate
-
+# Pens and Paper Sales Method Analysis
 
 
 ## Tech
@@ -227,13 +224,6 @@ ggplot(product_sales, aes(x = nb_site_visits, y = revenue,
                           color = sales_method)) +
   geom_point(position = "jitter", alpha = 0.5)
 ```
-## Product Sales Written Report
-
-https://github.com/mattphelps85data/DataCamp-Product-Sales-Report/blob/main/written_report/notebook.ipynb
-
-## Product Sales Presentation
-
-https://github.com/mattphelps85data/DataCamp-Product-Sales-Report/blob/main/presentation/DatacampPracticalPresentation.pdf
 
 ## Acknowledgements
 
