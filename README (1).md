@@ -14,7 +14,7 @@
 ## Description
 
 Six weeks ago, a new line of office stationery was launched.  The sales team has tested three different sales strategies for this, targeted email and phone calls, as well as combination of the two.
-A recommendation of which sales method to continue with should be given after analysis.
+A recommendation of which sales method to continue with will be given after analysis.
 
 ## Sales Department Requested Analysis
 
