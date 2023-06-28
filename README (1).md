@@ -231,6 +231,7 @@ Based on the data, my recommendation would be to continue using the "e-mail + ca
  - brings in more revenue per customer site visit.
  - brings in more revenue per customer order.
  - accounted for 32% of total revenue despite this approach being used on only 17% of the customers.
+
 For initial launch, "e-mail" only sales approach is great, but it is not sustainable.
 For continued sales success and revenue growth, the "e-mail + call" sales approach is the recommended sales approach.
 I would recommend targeting customers that have been with us 6 years or less, as they spend more and accounted for about 75% of all of our revenue.
