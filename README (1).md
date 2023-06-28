@@ -224,6 +224,17 @@ ggplot(product_sales, aes(x = nb_site_visits, y = revenue,
                           color = sales_method)) +
   geom_point(position = "jitter", alpha = 0.5)
 ```
+## Recommendations
+Based on the data, my recommendation would be to continue using the "e-mail + call" sales approach. The data tells us that the "e-mail + call" sales approach:
+ - has the most positive revenue growth.
+ - is the only sales approach that increases in customers weekly.
+ - brings in more revenue per customer site visit.
+ - brings in more revenue per customer order.
+ - accounted for 32% of total revenue despite this approach being used on only 17% of the customers.
+For initial launch, "e-mail" only sales approach is great, but it is not sustainable.
+For continued sales success and revenue growth, the "e-mail + call" sales approach is the recommended sales approach.
+I would recommend targeting customers that have been with us 6 years or less, as they spend more and accounted for about 75% of all of our revenue.
+Further data collection of success / fail of sale for customers contacted could provide further insights.
 
 ## Acknowledgements
 
