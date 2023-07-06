@@ -4,11 +4,13 @@
 
 ## Tech
 
-**Database:** R
+**Language:** R
 
-**Database Tool:** RStudio, Excel
+**IDE:** RStudio
 
-**Visualization Tool:** Tableau
+**Libraries:** dplyr, ggplot2, tidyverse, tibble, tidyr
+
+**Visualization Tool:** Tableau, PowerPoint
 
 
 ## Description
